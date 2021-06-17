@@ -19,7 +19,7 @@ it is effective in vmp2 and vmp3.
   x64dbg\release\x64\plugins\Vm2Import.dp64
   </code>
 
-2. command: "<code>vm2iat [dis.sel()]</code>"
+2. command: "<code>vm2iat dis.sel()</code>"
 
 3. select "VM_Start" <code>call vmp0.xxxxxxxx</code>, right click menu <code>"Vm2Import"->"Fix Import Call Address"</code>
 

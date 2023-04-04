@@ -1,7 +1,10 @@
-# Vm2Import
+## Vm2Import
 fix vmprotect import function used unicorn-engine.
 - `call/jmp/reg(mov) [module.function]`
 - work in vmp2.x ~ vmp3.6
+
+<b>It is a very bad project,, so no public code, I'll [x64dbgpy3](https://github.com/nblog/x64dbgpy3)+unicorn reimplement it, when I have free time.</b>
+
 
 ### Use
 - command: `vm2iat dis.sel()`
